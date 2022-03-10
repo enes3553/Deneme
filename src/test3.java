@@ -3,5 +3,10 @@ public class test3 {
         System.out.println(";;");
         System.out.println("true = " + true);
         System.out.println("false = " + false);
+        System.out.println("args = " + args);
+        System.out.println(";;");
+        System.out.println("true = " + true);
+        System.out.println("false = " + false);
+        System.out.println("args = " + args);
     }
 }
